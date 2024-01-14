@@ -1,0 +1,15 @@
+C:\Users\minh.nguyen\source\repos\DesignPattern\DesignPattern\bin\Debug\net6.0\DesignPattern.exe
+C:\Users\minh.nguyen\source\repos\DesignPattern\DesignPattern\bin\Debug\net6.0\DesignPattern.deps.json
+C:\Users\minh.nguyen\source\repos\DesignPattern\DesignPattern\bin\Debug\net6.0\DesignPattern.runtimeconfig.json
+C:\Users\minh.nguyen\source\repos\DesignPattern\DesignPattern\bin\Debug\net6.0\DesignPattern.dll
+C:\Users\minh.nguyen\source\repos\DesignPattern\DesignPattern\bin\Debug\net6.0\DesignPattern.pdb
+C:\Users\minh.nguyen\source\repos\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.csproj.AssemblyReference.cache
+C:\Users\minh.nguyen\source\repos\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minh.nguyen\source\repos\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.AssemblyInfoInputs.cache
+C:\Users\minh.nguyen\source\repos\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.AssemblyInfo.cs
+C:\Users\minh.nguyen\source\repos\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\minh.nguyen\source\repos\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.dll
+C:\Users\minh.nguyen\source\repos\DesignPattern\DesignPattern\obj\Debug\net6.0\refint\DesignPattern.dll
+C:\Users\minh.nguyen\source\repos\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.pdb
+C:\Users\minh.nguyen\source\repos\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.genruntimeconfig.cache
+C:\Users\minh.nguyen\source\repos\DesignPattern\DesignPattern\obj\Debug\net6.0\ref\DesignPattern.dll
