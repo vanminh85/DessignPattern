@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BILcxvcdI1ELH8EuJCAy6AUa6baxoQj7RHGdP7f75+8UReOOIS185gSAX+l+F3tlAUANhh3Z8uRDfs3I3md/Nw==",
+  "dgSpecHash": "ytGGhF06L0Q3KxvL73I2swhFKTnzlO4GsIK9uR8j2JWuRT2YFao/DzeG1HRzLDCMEbz1DNUdYtn27gtzFs6jnw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\minh.nguyen\\source\\repos\\DesignPattern\\DesignPattern\\DesignPattern.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\minh.nguyen\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\minh.nguyen\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\minh.nguyen\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\minh.nguyen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\minh.nguyen\\Downloads\\NVM\\ChuyenDeThietKePhanMem\\DessignPattern\\DesignPattern\\DesignPatterns.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

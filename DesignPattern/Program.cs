@@ -2,10 +2,16 @@
 using DesignPattern;
 using DesignPatterns;
 
-Console.WriteLine("Hello, World!");
+Car car = new CarBuiler()
+                .SetName("BMW")
+                .SetColor("Black")
+                .SetYear(2016)            
+                .Build();
 
-/*var htvc = new DuongBay();
+Console.WriteLine("Hello, World !");
+
+/*var htvc = new DuongBo();
 htvc.ThucHien();*/
 
-var trangTri = new KieuCoDien();
-trangTri.ThucHien();
+/*var trangTri = new KieuCoDien();
+trangTri.ThucHien();*/

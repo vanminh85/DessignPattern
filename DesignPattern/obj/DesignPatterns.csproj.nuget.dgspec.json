@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\minh.nguyen\\Downloads\\ChuyenDeThietKePhanMem\\DessignPattern\\DesignPattern\\DesignPattern.csproj": {}
+    "C:\\Users\\minh.nguyen\\Downloads\\NVM\\ChuyenDeThietKePhanMem\\DessignPattern\\DesignPattern\\DesignPatterns.csproj": {}
   },
   "projects": {
-    "C:\\Users\\minh.nguyen\\Downloads\\ChuyenDeThietKePhanMem\\DessignPattern\\DesignPattern\\DesignPattern.csproj": {
+    "C:\\Users\\minh.nguyen\\Downloads\\NVM\\ChuyenDeThietKePhanMem\\DessignPattern\\DesignPattern\\DesignPatterns.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\minh.nguyen\\Downloads\\ChuyenDeThietKePhanMem\\DessignPattern\\DesignPattern\\DesignPattern.csproj",
-        "projectName": "DesignPattern",
-        "projectPath": "C:\\Users\\minh.nguyen\\Downloads\\ChuyenDeThietKePhanMem\\DessignPattern\\DesignPattern\\DesignPattern.csproj",
+        "projectUniqueName": "C:\\Users\\minh.nguyen\\Downloads\\NVM\\ChuyenDeThietKePhanMem\\DessignPattern\\DesignPattern\\DesignPatterns.csproj",
+        "projectName": "DesignPatterns",
+        "projectPath": "C:\\Users\\minh.nguyen\\Downloads\\NVM\\ChuyenDeThietKePhanMem\\DessignPattern\\DesignPattern\\DesignPatterns.csproj",
         "packagesPath": "C:\\Users\\minh.nguyen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\minh.nguyen\\Downloads\\ChuyenDeThietKePhanMem\\DessignPattern\\DesignPattern\\obj\\",
+        "outputPath": "C:\\Users\\minh.nguyen\\Downloads\\NVM\\ChuyenDeThietKePhanMem\\DessignPattern\\DesignPattern\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
